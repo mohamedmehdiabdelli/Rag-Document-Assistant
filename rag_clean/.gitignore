@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# App runtime files
+temp.pdf
+vector_store/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
